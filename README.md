@@ -1,6 +1,4 @@
-# Praticando-Simples-class-Cursos-em-APEX.
-
-Exemplo Simples class Cursos.
+# Exemplo Simples class Cursos..
 
 O código acima define uma classe pública chamada "Cursos".
 
@@ -30,3 +28,5 @@ System.debug('Terças, Quartas e Quintas-feiras: ' + meusCursos.linguagemProgram
 System.debug('Terças e Quintas-feiras: ' + meusCursos.apex);
 
 System.debug('Segundas e Sextas-feiras: ' + meusCursos.adminSalesforce);
+
+https://satilam.github.io/Praticando-Simples-class-Cursos-em-APEX/
