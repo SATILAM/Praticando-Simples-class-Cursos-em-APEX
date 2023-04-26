@@ -1,4 +1,4 @@
-# Exemplo Simples class Cursos..
+# Exemplo Simples class Cursos.
 
 O código acima define uma classe pública chamada "Cursos".
 
